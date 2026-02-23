@@ -5,7 +5,7 @@ First Repository
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
 - [TOOLS USED](#Tools-Used)
-- {FILES USED](#Files-Used)
+- [FILES USED](#Files-Used)
   
 
 ## Project Title
